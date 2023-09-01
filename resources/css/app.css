@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.houses-form-container {
+    position: absolute;
+}
+
+.houses-form {
+    position: relative;
+    left: 50%;
+}
+
+.houses-table {
+    position: relative;
+    left: 25%;
+    width: 75%;
+}
+
+.houses-loader {
+    position: relative;
+    left: 50%;
+}

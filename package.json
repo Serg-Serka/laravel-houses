@@ -16,5 +16,9 @@
         "tailwindcss": "^3.2.1",
         "vite": "^4.0.0",
         "vue": "^3.2.41"
+    },
+    "dependencies": {
+        "vue-table-dynamic": "^0.4.10",
+        "vue3-easy-data-table": "^1.5.47"
     }
 }
